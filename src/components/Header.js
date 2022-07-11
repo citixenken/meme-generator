@@ -4,7 +4,8 @@ export default function Header() {
   return (
     <header>
       <img
-        src="..public/images/troll-face.png"
+        src="https://snipstock.com/assets/cdn/png/117fe30463018af9e2e8459ddb6d865a.png"
+        // src="../../public/images/troll.png"
         className="header-img"
         alt="troll-face"
       />
